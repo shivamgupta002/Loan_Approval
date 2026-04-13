@@ -53,11 +53,7 @@ This project builds and evaluates multiple machine learning models to predict wh
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-   
+3. **Install dependencies:**  
    Or install manually:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
